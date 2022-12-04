@@ -4,8 +4,8 @@ One of the uses of programming is to help us understand the real world through s
 technique is used in science, finance, and many other quantitative fields. As long as the “rules”
 which govern the real-world properties are known, you can write a computer program that
 explores the outcomes you get from following those rules. In this , we’ll simulate a 3D solar
-system in Python using the popular visualization library Matplotlib.
-Concept of Gravity
+system in Python using the popular visualization library Matplotlib. <br />
+## Concept of Gravity <br />
 Suns, planets, and other objects in a solar system are bodies that are in motion and that attract
 each other due to the gravitational force exerted between any two objects. If the two objects have
 masses m1 and m 2 and are a distance of rr away, then you can calculate the gravitational force
