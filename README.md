@@ -10,13 +10,13 @@ Suns, planets, and other objects in a solar system are bodies that are in motion
 each other due to the gravitational force exerted between any two objects. If the two objects have
 masses m1 and m 2 and are a distance of rr away, then you can calculate the gravitational force
 between them using the following equation:<br />
-** F=(G.m1.m2)/r^2
+**F=(G.m1.m2)/r^2**<br />
 The constant G is a gravitational constant. You’ll see how you’ll be able to ignore this constant in
 the version of the simulation you’ll write in this article in which you’ll use arbitrary units for
 mass and distance rather than kg and m. <br />
 Once you know the gravitational force between two objects, you can work out the acceleration aa
 each object undergoes due to this gravitational force using the following formula:<br />
-** F=ma
+**F=ma**<br />
 Using this acceleration, you can adjust the velocity of the moving object. When the velocity
 changes, both the speed and the direction of travel will change.<br />
 ## Representing Points and Vectors in 3D
